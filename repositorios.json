@@ -1,0 +1,1214 @@
+[
+  {
+    "id": 513,
+    "projeto": "pratica-semana-04",
+    "branches": [
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "a1eb9ff12f5e940506c5b50c3d303f6de9bca438",
+            "mensagem": "feat: implementa busca de endereços do Paulo\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-02T21:06:16.000-03:00"
+          },
+          {
+            "id": "713c0cd640ec1b0133d66c1a4030ffaef919a2e5",
+            "mensagem": "feat: adiciona configurações de debug para o vs code\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-02T17:13:23.000-03:00"
+          },
+          {
+            "id": "45cbf969f08dfbfe956db45e76cd1e695f2488b6",
+            "mensagem": "- prepara ambiente de testes do repositório\n- prepara aplicação para o uso de .envs\n- documenta uso de .envs\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-02T16:24:45.000-03:00"
+          },
+          {
+            "id": "e8444cb162f17a9a17d37e8be586f34079d7e761",
+            "mensagem": "setup\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-02T15:48:24.000-03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "projeto": "pratica-semana-04",
+    "branches": [
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "a1eb9ff12f5e940506c5b50c3d303f6de9bca438",
+            "mensagem": "feat: implementa busca de endereços do Paulo\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-02T21:06:16.000-03:00"
+          },
+          {
+            "id": "713c0cd640ec1b0133d66c1a4030ffaef919a2e5",
+            "mensagem": "feat: adiciona configurações de debug para o vs code\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-02T17:13:23.000-03:00"
+          },
+          {
+            "id": "45cbf969f08dfbfe956db45e76cd1e695f2488b6",
+            "mensagem": "- prepara ambiente de testes do repositório\n- prepara aplicação para o uso de .envs\n- documenta uso de .envs\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-02T16:24:45.000-03:00"
+          },
+          {
+            "id": "e8444cb162f17a9a17d37e8be586f34079d7e761",
+            "mensagem": "setup\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-02T15:48:24.000-03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "projeto": "materiais",
+    "branches": [
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "99dd0f75aec04c5089c176196fbdd0beaf8b72bd",
+            "mensagem": "feat: adiciona comentários complementares\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-01T21:54:05.000-03:00"
+          },
+          {
+            "id": "67eb1e610b0dc08f73ed56e5192d6b64f39d48f7",
+            "mensagem": "feat: adiciona exemplo de leitura de arquivos com callbacks\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-01T21:23:17.000-03:00"
+          },
+          {
+            "id": "337443a4afb2498540b998a30409d96992eb6f34",
+            "mensagem": "feat: remove material nao necessariuo\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-31T19:11:05.000-03:00"
+          },
+          {
+            "id": "985d7890202ede5953c71d072a5b0d4d95a411f0",
+            "mensagem": "feat: material da semana 04 - funções assíncronas\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-31T16:59:32.000-03:00"
+          },
+          {
+            "id": "9635a8bad8160d51f08045400a11fd574956264e",
+            "mensagem": "adiciona aula html\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-28T20:18:21.000-03:00"
+          },
+          {
+            "id": "27bf638cc1a287ad7fd86a0cf76b7e43b8127292",
+            "mensagem": "fix this\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-28T17:46:45.000-03:00"
+          },
+          {
+            "id": "61f70524ac9a4035237a9dbad46c83c91661dc50",
+            "mensagem": "add maps and sets\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T21:30:43.000-03:00"
+          },
+          {
+            "id": "4c746f3b583048eab30d25c8fcc0bb7267a2419b",
+            "mensagem": "add aula funcoes\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-26T21:10:15.000-03:00"
+          },
+          {
+            "id": "ad302dffcffd5b0567b4add86d93242153b4bb72",
+            "mensagem": "change intersection\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-25T20:49:53.000-03:00"
+          },
+          {
+            "id": "5709e8af4333c1d1f69e35b00d73a559f33edea3",
+            "mensagem": "add aula 02 semana 3\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-25T18:59:33.000-03:00"
+          },
+          {
+            "id": "9677846b4c2c4b42ebe33590094faa4f96456b3c",
+            "mensagem": "update\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-24T18:55:22.000-03:00"
+          },
+          {
+            "id": "13081d11ec61e8f222b4c984a37c2fb54d86600b",
+            "mensagem": "aula 01 semana 03\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-24T17:53:08.000-03:00"
+          },
+          {
+            "id": "976c3aa605f6f18de70f5acc43116de33098f8f0",
+            "mensagem": "fix: corrige titulo de sesão de tipos\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-19T18:26:14.000-03:00"
+          },
+          {
+            "id": "9109ad0c4ae3ea77f73fd1a473323dc39c8dd9f0",
+            "mensagem": "feat: adiciona material da semana 02\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-17T16:27:20.000-03:00"
+          },
+          {
+            "id": "6783027334b4cc3d6f2baa1f81b3cda42b33e46b",
+            "mensagem": "update landing page\n",
+            "autor": "Yuri Edmundo",
+            "data": "2023-07-14T20:28:10.000-03:00"
+          },
+          {
+            "id": "48e20d0982b3c00c0b44341d18a3eb9ddd4d6c7d",
+            "mensagem": "add grid examples\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-13T20:46:53.000-03:00"
+          },
+          {
+            "id": "0722456a88a8a1cb75de6dc12fce6909f10a5d37",
+            "mensagem": "us\nMerge branch 'main' of git.raroacademy.com.br:turmas-react/react-turma2/react2-alunos/materiais\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-13T20:44:39.000-03:00"
+          },
+          {
+            "id": "f908789c91985419cb9e5a163bc28e172578d170",
+            "mensagem": "add examples\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-13T20:44:28.000-03:00"
+          },
+          {
+            "id": "b589603ec2b943c8dc5463302959b04e686eb5a7",
+            "mensagem": "Landing page\n",
+            "autor": "Yuri Edmundo",
+            "data": "2023-07-13T20:28:30.000-03:00"
+          },
+          {
+            "id": "3b372ceec7f08e2b1404c723f346d33f4fa44dad",
+            "mensagem": "Aula 3 CSS\n",
+            "autor": "Yuri Edmundo",
+            "data": "2023-07-13T09:40:41.000-03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "projeto": "Pratica Semana 03",
+    "branches": [
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "012622e04a1846e6411b0a6f0c4c80d139172526",
+            "mensagem": "Merge branch 'falsy' into 'main'\n\ncloses #9-falsy\n\nCloses #9\n\nSee merge request ana.goettens/pratica-semana-03!9",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-08-01T18:00:49.000-03:00"
+          },
+          {
+            "id": "ed87e426d45d26a79f052371841bf843d24dd9ca",
+            "mensagem": "closes #9-falsy\n",
+            "autor": "ana.goettens",
+            "data": "2023-08-01T18:00:09.000-03:00"
+          },
+          {
+            "id": "f7bf6fa0d0369c17dfa0ba2264f3c4d5e5ffbd68",
+            "mensagem": "Merge branch 'arrayToString' into 'main'\n\ncloses #8-arrayToString\n\nCloses #8\n\nSee merge request ana.goettens/pratica-semana-03!8",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-08-01T17:57:56.000-03:00"
+          },
+          {
+            "id": "12909b6a8373f57a3aa468a76938f1e25e7cdda4",
+            "mensagem": "closes #8-arrayToString\n",
+            "autor": "ana.goettens",
+            "data": "2023-08-01T17:57:14.000-03:00"
+          },
+          {
+            "id": "cf0f5b830d0ef1fe344e1ceaa816d84bb5455754",
+            "mensagem": "Merge branch 'duplicate' into 'main'\n\ncloses #7-duplicate\n\nCloses #7\n\nSee merge request ana.goettens/pratica-semana-03!7",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-08-01T17:56:11.000-03:00"
+          },
+          {
+            "id": "5bf001b0e4d0057e64eafa745ec091199b16dd91",
+            "mensagem": "closes #7-duplicate\n",
+            "autor": "ana.goettens",
+            "data": "2023-08-01T17:55:32.000-03:00"
+          },
+          {
+            "id": "512fc03e342c3555827478ad65f1b2fd07b71190",
+            "mensagem": "Merge branch 'leapYear' into 'main'\n\ncloses #6-leapYear\n\nCloses #6\n\nSee merge request ana.goettens/pratica-semana-03!6",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-08-01T17:54:29.000-03:00"
+          },
+          {
+            "id": "78cda644093e573c92ef4f690977959e901ff7d1",
+            "mensagem": "closes #6-leapYear\n",
+            "autor": "ana.goettens",
+            "data": "2023-08-01T17:53:47.000-03:00"
+          },
+          {
+            "id": "6cf9caec80d3c4dda2206253b2081d4ffbac9967",
+            "mensagem": "Merge branch 'fibonacci' into 'main'\n\ncloses #5-fibonacci\n\nCloses #5\n\nSee merge request ana.goettens/pratica-semana-03!5",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-08-01T17:52:43.000-03:00"
+          },
+          {
+            "id": "c68541729773e0705b40f5fa8705f541693983cc",
+            "mensagem": "closes #5-fibonacci\n",
+            "autor": "ana.goettens",
+            "data": "2023-08-01T17:51:56.000-03:00"
+          },
+          {
+            "id": "311a4bc6355a766fbb7da44af4efb6037eda8741",
+            "mensagem": "Merge branch 'getRecursiveFactorial' into 'main'\n\ncloses #4-getRecursiveFactorial\n\nCloses #4\n\nSee merge request ana.goettens/pratica-semana-03!4",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-08-01T17:46:02.000-03:00"
+          },
+          {
+            "id": "f0b673301dcd9619a2a333b8eadbd6fbe7a889a5",
+            "mensagem": "closes #4-getRecursiveFactorial\n",
+            "autor": "ana.goettens",
+            "data": "2023-08-01T17:45:07.000-03:00"
+          },
+          {
+            "id": "adacf69e2d40080baf0e3e930af70ee14b28a325",
+            "mensagem": "Merge branch 'findFirstMostFrequent' into 'main'\n\ncloses #3-findFirstMostFrequent\n\nCloses #3\n\nSee merge request ana.goettens/pratica-semana-03!3",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-08-01T17:42:41.000-03:00"
+          },
+          {
+            "id": "ab1a094c29fe5b959beb8c81ef38092e08ebbf30",
+            "mensagem": "closes #3-findFirstMostFrequent\n",
+            "autor": "ana.goettens",
+            "data": "2023-08-01T17:41:39.000-03:00"
+          },
+          {
+            "id": "1c9e9fddd0d76b1de3cc63bd17be9265222d12d8",
+            "mensagem": "Merge branch 'extractItems' into 'main'\n\nFunção extractItemsPaginateArray\n\nCloses #2\n\nSee merge request ana.goettens/pratica-semana-03!2",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-08-01T17:39:11.000-03:00"
+          },
+          {
+            "id": "29c6880294c04df8c172f85aa987caf47d2637eb",
+            "mensagem": "closes #2-extractItems\n",
+            "autor": "ana.goettens",
+            "data": "2023-08-01T17:37:19.000-03:00"
+          },
+          {
+            "id": "7ecf2ee531d213a2c3bbf49af1eb1515d09c37c8",
+            "mensagem": "Merge branch 'arrayClone' into 'main'\n\ncloses #1-arrayClone\n\nCloses #1\n\nSee merge request ana.goettens/pratica-semana-03!1",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-07-30T19:11:57.000-03:00"
+          },
+          {
+            "id": "e557514f1fc6e7e2cf0dd5cdfe0f0f3cd248aa70",
+            "mensagem": "closes #1-arrayClone\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-30T19:08:35.000-03:00"
+          },
+          {
+            "id": "b45fbcb5a0d8c4c889b3bf66cee05efcfd12c610",
+            "mensagem": "altera titulo roubado do Paulo\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T20:51:37.000-03:00"
+          },
+          {
+            "id": "f7c993da564e51449ca2ba0988296451d0e02167",
+            "mensagem": "add export\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T15:52:42.000-03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "projeto": "Pratica Semana 03",
+    "branches": [
+      {
+        "nome": "develop",
+        "commits": [
+          {
+            "id": "b45fbcb5a0d8c4c889b3bf66cee05efcfd12c610",
+            "mensagem": "altera titulo roubado do Paulo\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T20:51:37.000-03:00"
+          },
+          {
+            "id": "f7c993da564e51449ca2ba0988296451d0e02167",
+            "mensagem": "add export\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T15:52:42.000-03:00"
+          },
+          {
+            "id": "f09a4c3af4f687ae6395d7212fef2d5117417a0f",
+            "mensagem": "add new question\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T15:51:25.000-03:00"
+          },
+          {
+            "id": "3fbf12487a76cf7b7fd1a268e67f693ec11124b6",
+            "mensagem": "add exercises\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T14:52:58.000-03:00"
+          },
+          {
+            "id": "d8d9332373f9eb9a473005290f54bbf9cdf7d318",
+            "mensagem": "ignore .vscode after beign set\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-26T17:14:23.000-03:00"
+          },
+          {
+            "id": "d2e1ab39401c89deefddffde8177c59a4b653bc6",
+            "mensagem": "initial commit\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-26T15:03:57.000-03:00"
+          }
+        ]
+      },
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "b45fbcb5a0d8c4c889b3bf66cee05efcfd12c610",
+            "mensagem": "altera titulo roubado do Paulo\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T20:51:37.000-03:00"
+          },
+          {
+            "id": "f7c993da564e51449ca2ba0988296451d0e02167",
+            "mensagem": "add export\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T15:52:42.000-03:00"
+          },
+          {
+            "id": "f09a4c3af4f687ae6395d7212fef2d5117417a0f",
+            "mensagem": "add new question\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T15:51:25.000-03:00"
+          },
+          {
+            "id": "3fbf12487a76cf7b7fd1a268e67f693ec11124b6",
+            "mensagem": "add exercises\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T14:52:58.000-03:00"
+          },
+          {
+            "id": "d8d9332373f9eb9a473005290f54bbf9cdf7d318",
+            "mensagem": "ignore .vscode after beign set\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-26T17:14:23.000-03:00"
+          },
+          {
+            "id": "d2e1ab39401c89deefddffde8177c59a4b653bc6",
+            "mensagem": "initial commit\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-26T15:03:57.000-03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 435,
+    "projeto": "receitas-esquisitas",
+    "branches": [
+      {
+        "nome": "2-criar-uma-nova-receita-para-o-Breno",
+        "commits": [
+          {
+            "id": "ca2a160ea67b98acb28f275f6b3b9bf4dcff3247",
+            "mensagem": "adiciona receita do breno",
+            "autor": "Breno Peruchi",
+            "data": "2023-07-22T12:16:25.000-03:00"
+          },
+          {
+            "id": "1f9dd2a3e6d037839ce4e414d25a647ff860c43c",
+            "mensagem": "Merge branch 'main' of git.raroacademy.com.br:turmas-react/react-turma2/react2-alunos/receitas-esquisitas\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:35:05.000-03:00"
+          },
+          {
+            "id": "e6b63eac35c10221e29763f52b48959dd5b0e154",
+            "mensagem": "adiciona novas receitas para o nosso livro\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:21:21.000-03:00"
+          },
+          {
+            "id": "e99069f259bd7d31b3ab05b6329b08241eb5e13a",
+            "mensagem": "dando um olá para a turma",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:06:44.000-03:00"
+          },
+          {
+            "id": "840535a68cc9f4e49dcab55005190ed02d3b3a01",
+            "mensagem": "Initial commit",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T09:55:22.000-03:00"
+          }
+        ]
+      },
+      {
+        "nome": "5-criar-receita-do-beritica-2",
+        "commits": [
+          {
+            "id": "bea0b64d09c747b4cbffcf315ee805c602000e44",
+            "mensagem": "Merge branch '3-criar-uma-nova-receita-para-a-integrante-da-turma-fernanda' into 'develop'\n\ncloses #3 - cria uma nova receita para a integrante da turma Fernanda\n\nCloses #3\n\nSee merge request turmas-react/react-turma2/react2-alunos/receitas-esquisitas!3",
+            "autor": "Vinicius Beritica de Area Matos",
+            "data": "2023-07-22T13:01:03.000-03:00"
+          },
+          {
+            "id": "6b7aced97c547212d729721b5f64a703fd35f228",
+            "mensagem": "Merge branch '1-criar-uma-nova-receita-para-o-integrante-da-turma-paulo' into 'develop'\n\ncloses #1 - adiciona a curioside gastronomica do paulo\n\nSee merge request turmas-react/react-turma2/react2-alunos/receitas-esquisitas!2",
+            "autor": "Vinicius Beritica de Area Matos",
+            "data": "2023-07-22T13:00:38.000-03:00"
+          },
+          {
+            "id": "7eb9291af9f41ff34e2c209e1869a2a21c099ee6",
+            "mensagem": "Merge branch '2-criar-uma-nova-receita-para-o-Breno' into 'develop'\n\ncloses #2-criar-uma-nova-receita-para-o-Breno\n\nSee merge request turmas-react/react-turma2/react2-alunos/receitas-esquisitas!1",
+            "autor": "Vinicius Beritica de Area Matos",
+            "data": "2023-07-22T12:59:25.000-03:00"
+          },
+          {
+            "id": "f9979b04a5fba0ec267f3bbbda1613750e9e80bc",
+            "mensagem": "closes #3 - cria uma nova receita para a integrante da turma Fernanda\n",
+            "autor": "fernanda",
+            "data": "2023-07-22T12:49:11.000-03:00"
+          },
+          {
+            "id": "ca2a160ea67b98acb28f275f6b3b9bf4dcff3247",
+            "mensagem": "adiciona receita do breno",
+            "autor": "Breno Peruchi",
+            "data": "2023-07-22T12:16:25.000-03:00"
+          },
+          {
+            "id": "ed9456b551a5986a9fa81b9e00afe22de2a63486",
+            "mensagem": "closes #1 - adiciona a curioside gastronomica do paulo\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T12:12:14.000-03:00"
+          },
+          {
+            "id": "1f9dd2a3e6d037839ce4e414d25a647ff860c43c",
+            "mensagem": "Merge branch 'main' of git.raroacademy.com.br:turmas-react/react-turma2/react2-alunos/receitas-esquisitas\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:35:05.000-03:00"
+          },
+          {
+            "id": "e6b63eac35c10221e29763f52b48959dd5b0e154",
+            "mensagem": "adiciona novas receitas para o nosso livro\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:21:21.000-03:00"
+          },
+          {
+            "id": "e99069f259bd7d31b3ab05b6329b08241eb5e13a",
+            "mensagem": "dando um olá para a turma",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:06:44.000-03:00"
+          },
+          {
+            "id": "840535a68cc9f4e49dcab55005190ed02d3b3a01",
+            "mensagem": "Initial commit",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T09:55:22.000-03:00"
+          }
+        ]
+      },
+      {
+        "nome": "5-criar-receita-do-beritica-3",
+        "commits": [
+          {
+            "id": "bea0b64d09c747b4cbffcf315ee805c602000e44",
+            "mensagem": "Merge branch '3-criar-uma-nova-receita-para-a-integrante-da-turma-fernanda' into 'develop'\n\ncloses #3 - cria uma nova receita para a integrante da turma Fernanda\n\nCloses #3\n\nSee merge request turmas-react/react-turma2/react2-alunos/receitas-esquisitas!3",
+            "autor": "Vinicius Beritica de Area Matos",
+            "data": "2023-07-22T13:01:03.000-03:00"
+          },
+          {
+            "id": "6b7aced97c547212d729721b5f64a703fd35f228",
+            "mensagem": "Merge branch '1-criar-uma-nova-receita-para-o-integrante-da-turma-paulo' into 'develop'\n\ncloses #1 - adiciona a curioside gastronomica do paulo\n\nSee merge request turmas-react/react-turma2/react2-alunos/receitas-esquisitas!2",
+            "autor": "Vinicius Beritica de Area Matos",
+            "data": "2023-07-22T13:00:38.000-03:00"
+          },
+          {
+            "id": "7eb9291af9f41ff34e2c209e1869a2a21c099ee6",
+            "mensagem": "Merge branch '2-criar-uma-nova-receita-para-o-Breno' into 'develop'\n\ncloses #2-criar-uma-nova-receita-para-o-Breno\n\nSee merge request turmas-react/react-turma2/react2-alunos/receitas-esquisitas!1",
+            "autor": "Vinicius Beritica de Area Matos",
+            "data": "2023-07-22T12:59:25.000-03:00"
+          },
+          {
+            "id": "f9979b04a5fba0ec267f3bbbda1613750e9e80bc",
+            "mensagem": "closes #3 - cria uma nova receita para a integrante da turma Fernanda\n",
+            "autor": "fernanda",
+            "data": "2023-07-22T12:49:11.000-03:00"
+          },
+          {
+            "id": "ca2a160ea67b98acb28f275f6b3b9bf4dcff3247",
+            "mensagem": "adiciona receita do breno",
+            "autor": "Breno Peruchi",
+            "data": "2023-07-22T12:16:25.000-03:00"
+          },
+          {
+            "id": "ed9456b551a5986a9fa81b9e00afe22de2a63486",
+            "mensagem": "closes #1 - adiciona a curioside gastronomica do paulo\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T12:12:14.000-03:00"
+          },
+          {
+            "id": "1f9dd2a3e6d037839ce4e414d25a647ff860c43c",
+            "mensagem": "Merge branch 'main' of git.raroacademy.com.br:turmas-react/react-turma2/react2-alunos/receitas-esquisitas\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:35:05.000-03:00"
+          },
+          {
+            "id": "e6b63eac35c10221e29763f52b48959dd5b0e154",
+            "mensagem": "adiciona novas receitas para o nosso livro\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:21:21.000-03:00"
+          },
+          {
+            "id": "e99069f259bd7d31b3ab05b6329b08241eb5e13a",
+            "mensagem": "dando um olá para a turma",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:06:44.000-03:00"
+          },
+          {
+            "id": "840535a68cc9f4e49dcab55005190ed02d3b3a01",
+            "mensagem": "Initial commit",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T09:55:22.000-03:00"
+          }
+        ]
+      },
+      {
+        "nome": "develop",
+        "commits": [
+          {
+            "id": "cfd8f9d0a1721987d7844f0dae98fd96b56d7bb5",
+            "mensagem": "Merge branch '5-criar-receita-do-beritica' into 'develop'\n\nAdicionando receita com bolacha e feijão\n\nCloses #5\n\nSee merge request turmas-react/react-turma2/react2-alunos/receitas-esquisitas!4",
+            "autor": "Vinicius Beritica de Area Matos",
+            "data": "2023-07-22T13:13:34.000-03:00"
+          },
+          {
+            "id": "2c7ae3c53fcb6abd0711b952912a2ccde142e34e",
+            "mensagem": "Merge branch 'develop' into 5-criar-receita-do-beritica\n",
+            "autor": "beritica",
+            "data": "2023-07-22T13:08:52.000-03:00"
+          },
+          {
+            "id": "1762a0e4e35ef2bbc66d9a7b838c2fd9460835c3",
+            "mensagem": "adicionando passo a passo para fazer o feijão\n",
+            "autor": "beritica",
+            "data": "2023-07-22T13:04:51.000-03:00"
+          },
+          {
+            "id": "bea0b64d09c747b4cbffcf315ee805c602000e44",
+            "mensagem": "Merge branch '3-criar-uma-nova-receita-para-a-integrante-da-turma-fernanda' into 'develop'\n\ncloses #3 - cria uma nova receita para a integrante da turma Fernanda\n\nCloses #3\n\nSee merge request turmas-react/react-turma2/react2-alunos/receitas-esquisitas!3",
+            "autor": "Vinicius Beritica de Area Matos",
+            "data": "2023-07-22T13:01:03.000-03:00"
+          },
+          {
+            "id": "6b7aced97c547212d729721b5f64a703fd35f228",
+            "mensagem": "Merge branch '1-criar-uma-nova-receita-para-o-integrante-da-turma-paulo' into 'develop'\n\ncloses #1 - adiciona a curioside gastronomica do paulo\n\nSee merge request turmas-react/react-turma2/react2-alunos/receitas-esquisitas!2",
+            "autor": "Vinicius Beritica de Area Matos",
+            "data": "2023-07-22T13:00:38.000-03:00"
+          },
+          {
+            "id": "7eb9291af9f41ff34e2c209e1869a2a21c099ee6",
+            "mensagem": "Merge branch '2-criar-uma-nova-receita-para-o-Breno' into 'develop'\n\ncloses #2-criar-uma-nova-receita-para-o-Breno\n\nSee merge request turmas-react/react-turma2/react2-alunos/receitas-esquisitas!1",
+            "autor": "Vinicius Beritica de Area Matos",
+            "data": "2023-07-22T12:59:25.000-03:00"
+          },
+          {
+            "id": "45d9f8aa20e803a2ad71f4ebeb2178d31df09730",
+            "mensagem": "Adicionando receita com blacha e feijão\n",
+            "autor": "beritica",
+            "data": "2023-07-22T12:51:20.000-03:00"
+          },
+          {
+            "id": "f9979b04a5fba0ec267f3bbbda1613750e9e80bc",
+            "mensagem": "closes #3 - cria uma nova receita para a integrante da turma Fernanda\n",
+            "autor": "fernanda",
+            "data": "2023-07-22T12:49:11.000-03:00"
+          },
+          {
+            "id": "ca2a160ea67b98acb28f275f6b3b9bf4dcff3247",
+            "mensagem": "adiciona receita do breno",
+            "autor": "Breno Peruchi",
+            "data": "2023-07-22T12:16:25.000-03:00"
+          },
+          {
+            "id": "ed9456b551a5986a9fa81b9e00afe22de2a63486",
+            "mensagem": "closes #1 - adiciona a curioside gastronomica do paulo\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T12:12:14.000-03:00"
+          },
+          {
+            "id": "1f9dd2a3e6d037839ce4e414d25a647ff860c43c",
+            "mensagem": "Merge branch 'main' of git.raroacademy.com.br:turmas-react/react-turma2/react2-alunos/receitas-esquisitas\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:35:05.000-03:00"
+          },
+          {
+            "id": "e6b63eac35c10221e29763f52b48959dd5b0e154",
+            "mensagem": "adiciona novas receitas para o nosso livro\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:21:21.000-03:00"
+          },
+          {
+            "id": "e99069f259bd7d31b3ab05b6329b08241eb5e13a",
+            "mensagem": "dando um olá para a turma",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:06:44.000-03:00"
+          },
+          {
+            "id": "840535a68cc9f4e49dcab55005190ed02d3b3a01",
+            "mensagem": "Initial commit",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T09:55:22.000-03:00"
+          }
+        ]
+      },
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "1f9dd2a3e6d037839ce4e414d25a647ff860c43c",
+            "mensagem": "Merge branch 'main' of git.raroacademy.com.br:turmas-react/react-turma2/react2-alunos/receitas-esquisitas\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:35:05.000-03:00"
+          },
+          {
+            "id": "e6b63eac35c10221e29763f52b48959dd5b0e154",
+            "mensagem": "adiciona novas receitas para o nosso livro\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:21:21.000-03:00"
+          },
+          {
+            "id": "e99069f259bd7d31b3ab05b6329b08241eb5e13a",
+            "mensagem": "dando um olá para a turma",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:06:44.000-03:00"
+          },
+          {
+            "id": "840535a68cc9f4e49dcab55005190ed02d3b3a01",
+            "mensagem": "Initial commit",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T09:55:22.000-03:00"
+          }
+        ]
+      },
+      {
+        "nome": "rc-v1",
+        "commits": [
+          {
+            "id": "1f9dd2a3e6d037839ce4e414d25a647ff860c43c",
+            "mensagem": "Merge branch 'main' of git.raroacademy.com.br:turmas-react/react-turma2/react2-alunos/receitas-esquisitas\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:35:05.000-03:00"
+          },
+          {
+            "id": "e6b63eac35c10221e29763f52b48959dd5b0e154",
+            "mensagem": "adiciona novas receitas para o nosso livro\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:21:21.000-03:00"
+          },
+          {
+            "id": "e99069f259bd7d31b3ab05b6329b08241eb5e13a",
+            "mensagem": "dando um olá para a turma",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T10:06:44.000-03:00"
+          },
+          {
+            "id": "840535a68cc9f4e49dcab55005190ed02d3b3a01",
+            "mensagem": "Initial commit",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-22T09:55:22.000-03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "projeto": "pratica-semana-02",
+    "branches": [
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "7d1d7812933251cebb1018597f9cf74a7ed6800e",
+            "mensagem": "Merge branch 'lint' into 'main'\n\ncloses #28-lint\n\nCloses #28\n\nSee merge request ana.goettens/pratica-semana-02!28",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-07-25T18:45:17.000-03:00"
+          },
+          {
+            "id": "7ef6805f4cb29c07b9338fe8650b2e123aee6b07",
+            "mensagem": "closes #28-lint\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T18:44:01.000-03:00"
+          },
+          {
+            "id": "38395c0c077daf20449e1809cbc452af7b88e1cb",
+            "mensagem": "Merge branch 'upperCaseFirst' into 'main'\n\ncloses #25-upperCaseFirst\n\nCloses #25\n\nSee merge request ana.goettens/pratica-semana-02!27",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-07-25T18:14:19.000-03:00"
+          },
+          {
+            "id": "6de70e18f87c152c3afc63f210142dfd6662efa1",
+            "mensagem": "closes #25-upperCaseFirst\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T18:12:02.000-03:00"
+          },
+          {
+            "id": "54caa538f739bb301ca424193cd7e5e683c08796",
+            "mensagem": "Merge branch 'uniqBy' into 'main'\n\ncloses #24-uniqBy\n\nCloses #24\n\nSee merge request ana.goettens/pratica-semana-02!26",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-07-25T18:10:52.000-03:00"
+          },
+          {
+            "id": "deefd0476ebb9b6b935fbd942f1f73e7f3c74ea3",
+            "mensagem": "closes #24-uniqBy\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T18:08:17.000-03:00"
+          },
+          {
+            "id": "bc48e843b76db4936f7460e20ff4172fed9f7422",
+            "mensagem": "Merge branch 'uniq' into 'main'\n\ncloses #23-uniq\n\nCloses #23\n\nSee merge request ana.goettens/pratica-semana-02!25",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-07-25T18:06:48.000-03:00"
+          },
+          {
+            "id": "5606b3ede170a31d1e0c60b97d2d1cdb2a7584bb",
+            "mensagem": "closes #23-uniq\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T18:04:49.000-03:00"
+          },
+          {
+            "id": "1ba1338dd05030a8f8cb94c97efb148586c2fa05",
+            "mensagem": "Merge branch 'union' into 'main'\n\ncloses #22-union\n\nCloses #22\n\nSee merge request ana.goettens/pratica-semana-02!24",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-07-25T18:03:21.000-03:00"
+          },
+          {
+            "id": "ec1ea3b11dbdc35290a662588ee5d2eb5313297b",
+            "mensagem": "closes #22-truncate\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T17:58:35.000-03:00"
+          },
+          {
+            "id": "bf586f18eaa6c6f7106b1e0e45f0a14697502823",
+            "mensagem": "Merge branch 'truncate' into 'main'\n\ncloses #21-truncate\n\nCloses #21\n\nSee merge request ana.goettens/pratica-semana-02!23",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-07-25T17:57:22.000-03:00"
+          },
+          {
+            "id": "9fe4e4e87d0940498f69e8d94b98818f5eb2f4e7",
+            "mensagem": "closes #21-truncate\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T17:53:48.000-03:00"
+          },
+          {
+            "id": "9aa966868979c8f90d92621b0be88994e44c1ec0",
+            "mensagem": "Merge branch 'toPath' into 'main'\n\ncloses #20-toPath\n\nCloses #20\n\nSee merge request ana.goettens/pratica-semana-02!22",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-07-25T17:50:36.000-03:00"
+          },
+          {
+            "id": "e29e1dd3aec350032991dc9ce10ed5b741385015",
+            "mensagem": "closes #20-toPath\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T17:45:14.000-03:00"
+          },
+          {
+            "id": "264c440a14eb656df4762626521859bcd7630369",
+            "mensagem": "Merge branch 'filter' into 'main'\n\nFilter\n\nCloses #27 and #17\n\nSee merge request ana.goettens/pratica-semana-02!21",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-07-25T17:43:57.000-03:00"
+          },
+          {
+            "id": "ea9a9a3765c929e3d194dbfc3cc0c1a440e74536",
+            "mensagem": "closes #27-filter\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T17:40:41.000-03:00"
+          },
+          {
+            "id": "41673deaedc0a5381167b3aa829fffde427b4eaf",
+            "mensagem": "closes #17-filter\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T17:36:15.000-03:00"
+          },
+          {
+            "id": "2f2a7428c642667acb25a422efa4afec4bcf9782",
+            "mensagem": "closes #27-filter\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T17:32:57.000-03:00"
+          },
+          {
+            "id": "75c74fea4e8a1395952d8a41512dcf8563e5a2b8",
+            "mensagem": "Merge branch 'toPairs' into 'main'\n\nclosese #19-toPairs\n\nSee merge request ana.goettens/pratica-semana-02!20",
+            "autor": "Ana Paula Schwaab Goettens",
+            "data": "2023-07-25T17:28:46.000-03:00"
+          },
+          {
+            "id": "2a949ac32367d9ea348adbd88d9e26a2d813ac45",
+            "mensagem": "closese #19-toPairs\n",
+            "autor": "ana.goettens",
+            "data": "2023-07-25T17:17:35.000-03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "projeto": "pratica-semana-02",
+    "branches": [
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "8f9098b8f336e68304fe87a3ae7e8681d81dc9c9",
+            "mensagem": "implementa metodo de chunk de arrays\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-21T22:12:33.000-03:00"
+          },
+          {
+            "id": "d21d10100aa3919a8d3c9e5c25d37f990b1e25aa",
+            "mensagem": "implementa método de criação de range de números.\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-21T21:50:51.000-03:00"
+          },
+          {
+            "id": "17a4ec8ad38809be83930c8e1d5293fded4cc699",
+            "mensagem": "implementa método de compact de arrays\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-21T21:41:22.000-03:00"
+          },
+          {
+            "id": "07e19de1a1c752873eff3b7deae41b99df485643",
+            "mensagem": "corrige teste de unidade do exercicio 3\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-21T21:30:06.000-03:00"
+          },
+          {
+            "id": "efc11cd30fb000985df304094ec064e0d4ed5891",
+            "mensagem": "adiciona exemplos da aula sobre teste e if\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-20T21:23:43.000-03:00"
+          },
+          {
+            "id": "fd4900e6bc7f7dd07206e195df79dbe0378050fb",
+            "mensagem": "feat: adiciona questões do trabalho\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-19T10:46:47.000-03:00"
+          },
+          {
+            "id": "f25a4d134b2ca71281b7f7ccf9f1ba152c6b0d41",
+            "mensagem": "feat: cria 1a versão da documentação do exercício da semana\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-17T18:35:49.000-03:00"
+          },
+          {
+            "id": "738a9f80e77c1f88a309669a5b558727ef53cdad",
+            "mensagem": "feat: inicia repositório de exercício prático\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-17T16:21:28.000-03:00"
+          }
+        ]
+      },
+      {
+        "nome": "main-solucoes-v1",
+        "commits": [
+          {
+            "id": "3cd5d94680417751d56d08d1ebac72d62438592e",
+            "mensagem": "feat: apresenta soluções aos exercícios\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-05T19:36:47.000-03:00"
+          },
+          {
+            "id": "68fbf8b1c0a614ae34b8831091b4c1afaf7687e2",
+            "mensagem": "WIP:\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-31T19:26:16.000-03:00"
+          },
+          {
+            "id": "6d620b511a4d5a8f10ed9a606c2963a425d06fca",
+            "mensagem": "feat: sugestão de implementações sem loops de arrays\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-28T20:45:37.000-03:00"
+          },
+          {
+            "id": "8f9098b8f336e68304fe87a3ae7e8681d81dc9c9",
+            "mensagem": "implementa metodo de chunk de arrays\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-21T22:12:33.000-03:00"
+          },
+          {
+            "id": "d21d10100aa3919a8d3c9e5c25d37f990b1e25aa",
+            "mensagem": "implementa método de criação de range de números.\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-21T21:50:51.000-03:00"
+          },
+          {
+            "id": "17a4ec8ad38809be83930c8e1d5293fded4cc699",
+            "mensagem": "implementa método de compact de arrays\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-21T21:41:22.000-03:00"
+          },
+          {
+            "id": "07e19de1a1c752873eff3b7deae41b99df485643",
+            "mensagem": "corrige teste de unidade do exercicio 3\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-21T21:30:06.000-03:00"
+          },
+          {
+            "id": "efc11cd30fb000985df304094ec064e0d4ed5891",
+            "mensagem": "adiciona exemplos da aula sobre teste e if\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-20T21:23:43.000-03:00"
+          },
+          {
+            "id": "fd4900e6bc7f7dd07206e195df79dbe0378050fb",
+            "mensagem": "feat: adiciona questões do trabalho\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-19T10:46:47.000-03:00"
+          },
+          {
+            "id": "f25a4d134b2ca71281b7f7ccf9f1ba152c6b0d41",
+            "mensagem": "feat: cria 1a versão da documentação do exercício da semana\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-17T18:35:49.000-03:00"
+          },
+          {
+            "id": "738a9f80e77c1f88a309669a5b558727ef53cdad",
+            "mensagem": "feat: inicia repositório de exercício prático\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-17T16:21:28.000-03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "projeto": "setup",
+    "branches": [
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "c826255a733b2ca03ced9c7a6b2c39d037933efb",
+            "mensagem": "Merge branch 'complementa-documentacao-wsl' into 'main'\n\nMerge complementa-documentacao-wsl\n\nSee merge request turmas-react/react-turma2/react2-professores/setup!1",
+            "autor": "Larissa Rabelo",
+            "data": "2023-07-17T15:54:00.000-03:00"
+          },
+          {
+            "id": "516fb4ba6ce57c5180f0cd76181a76b99b43b9c9",
+            "mensagem": "feat: add obs to enable hyper-v on BIOS\n",
+            "autor": "Larissa Rabelo",
+            "data": "2023-07-17T15:12:44.000-03:00"
+          },
+          {
+            "id": "dfb97b881ac05f8f2d871f62bfc0e12be5431073",
+            "mensagem": "feat: add link to WSL extension\n",
+            "autor": "Larissa Rabelo",
+            "data": "2023-07-17T14:30:13.000-03:00"
+          },
+          {
+            "id": "8848d5ba68182f99109f4ef33ae8961e306e6765",
+            "mensagem": "fix: resolve threads for MR\n",
+            "autor": "Larissa Rabelo",
+            "data": "2023-07-17T14:21:36.000-03:00"
+          },
+          {
+            "id": "7d6c0eaa95c4c89590ae8cb57bad5f5dad3210ea",
+            "mensagem": "feat: update documentation for WSL installation\n",
+            "autor": "Larissa Rabelo",
+            "data": "2023-07-16T21:23:52.000-03:00"
+          },
+          {
+            "id": "adc076ee4697f2b2eecdb9b88514aec316998856",
+            "mensagem": "Upload New File",
+            "autor": "Mateus Pinheiro Mendes",
+            "data": "2023-07-02T20:54:24.000-03:00"
+          },
+          {
+            "id": "e497c45bb0800098668874a73923b3236e47014e",
+            "mensagem": "Delete setup-enviroment.md",
+            "autor": "Mateus Pinheiro Mendes",
+            "data": "2023-07-02T20:53:52.000-03:00"
+          },
+          {
+            "id": "3b29fde89e7d74e74626bcaf8a57d74cc6c1b962",
+            "mensagem": "Upload New File",
+            "autor": "Mateus Pinheiro Mendes",
+            "data": "2023-06-28T22:40:59.000-03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "projeto": "materiais",
+    "branches": [
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "caee40548f4106233a24a9f3aad511ce6fade8eb",
+            "mensagem": "feat: adiciona link no read para aula de fundamentos do React\n",
+            "autor": "Larissa Rabelo",
+            "data": "2023-08-07T17:51:30.000-03:00"
+          },
+          {
+            "id": "94185b2b0eb80816bdc547e77e433ff125adc0f9",
+            "mensagem": "feat: adiciona aula de fundamentos do React\n",
+            "autor": "Larissa Rabelo",
+            "data": "2023-08-07T17:48:46.000-03:00"
+          },
+          {
+            "id": "99dd0f75aec04c5089c176196fbdd0beaf8b72bd",
+            "mensagem": "feat: adiciona comentários complementares\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-01T21:54:05.000-03:00"
+          },
+          {
+            "id": "67eb1e610b0dc08f73ed56e5192d6b64f39d48f7",
+            "mensagem": "feat: adiciona exemplo de leitura de arquivos com callbacks\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-08-01T21:23:17.000-03:00"
+          },
+          {
+            "id": "337443a4afb2498540b998a30409d96992eb6f34",
+            "mensagem": "feat: remove material nao necessariuo\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-31T19:11:05.000-03:00"
+          },
+          {
+            "id": "985d7890202ede5953c71d072a5b0d4d95a411f0",
+            "mensagem": "feat: material da semana 04 - funções assíncronas\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-31T16:59:32.000-03:00"
+          },
+          {
+            "id": "9635a8bad8160d51f08045400a11fd574956264e",
+            "mensagem": "adiciona aula html\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-28T20:18:21.000-03:00"
+          },
+          {
+            "id": "27bf638cc1a287ad7fd86a0cf76b7e43b8127292",
+            "mensagem": "fix this\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-28T17:46:45.000-03:00"
+          },
+          {
+            "id": "61f70524ac9a4035237a9dbad46c83c91661dc50",
+            "mensagem": "add maps and sets\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-27T21:30:43.000-03:00"
+          },
+          {
+            "id": "4c746f3b583048eab30d25c8fcc0bb7267a2419b",
+            "mensagem": "add aula funcoes\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-26T21:10:15.000-03:00"
+          },
+          {
+            "id": "ad302dffcffd5b0567b4add86d93242153b4bb72",
+            "mensagem": "change intersection\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-25T20:49:53.000-03:00"
+          },
+          {
+            "id": "5709e8af4333c1d1f69e35b00d73a559f33edea3",
+            "mensagem": "add aula 02 semana 3\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-25T18:59:33.000-03:00"
+          },
+          {
+            "id": "9677846b4c2c4b42ebe33590094faa4f96456b3c",
+            "mensagem": "update\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-24T18:55:22.000-03:00"
+          },
+          {
+            "id": "13081d11ec61e8f222b4c984a37c2fb54d86600b",
+            "mensagem": "aula 01 semana 03\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-24T17:53:08.000-03:00"
+          },
+          {
+            "id": "976c3aa605f6f18de70f5acc43116de33098f8f0",
+            "mensagem": "fix: corrige titulo de sesão de tipos\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-19T18:26:14.000-03:00"
+          },
+          {
+            "id": "9109ad0c4ae3ea77f73fd1a473323dc39c8dd9f0",
+            "mensagem": "feat: adiciona material da semana 02\n",
+            "autor": "Paulo Fernandes",
+            "data": "2023-07-17T16:27:20.000-03:00"
+          },
+          {
+            "id": "6783027334b4cc3d6f2baa1f81b3cda42b33e46b",
+            "mensagem": "update landing page\n",
+            "autor": "Yuri Edmundo",
+            "data": "2023-07-14T20:28:10.000-03:00"
+          },
+          {
+            "id": "48e20d0982b3c00c0b44341d18a3eb9ddd4d6c7d",
+            "mensagem": "add grid examples\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-13T20:46:53.000-03:00"
+          },
+          {
+            "id": "0722456a88a8a1cb75de6dc12fce6909f10a5d37",
+            "mensagem": "us\nMerge branch 'main' of git.raroacademy.com.br:turmas-react/react-turma2/react2-alunos/materiais\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-13T20:44:39.000-03:00"
+          },
+          {
+            "id": "f908789c91985419cb9e5a163bc28e172578d170",
+            "mensagem": "add examples\n",
+            "autor": "Gabriel Becheleni",
+            "data": "2023-07-13T20:44:28.000-03:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "projeto": "atividade_semana5_xadrez_Lucas_Menezes",
+    "branches": [
+      {
+        "nome": "main",
+        "commits": [
+          {
+            "id": "301bf63689f185d45b6fb7b0a8389894d5f5aea1",
+            "mensagem": "entrega da atividade semana 5\n",
+            "autor": "Lucas Menezes Pinheiro",
+            "data": "2023-04-14T16:08:40.000-04:00"
+          },
+          {
+            "id": "fc31935e16caf0632142516520674051940ac79c",
+            "mensagem": "Initial commit",
+            "autor": "Lucas Menezes Pinheiro",
+            "data": "2023-04-14T16:37:45.000-03:00"
+          }
+        ]
+      }
+    ]
+  }
+]

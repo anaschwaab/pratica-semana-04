@@ -3,4 +3,5 @@ module.exports = {
   testEnvironment: 'node',
   coveragePathIgnorePatterns: ['./dist'],
   testPathIgnorePatterns: ['./dist'],
+  testTimeout: 10000,
 };

@@ -5,6 +5,7 @@ describe('busca repositorios', () => {
   let repositorios: Repositorio[];
 
   beforeEach(async () => {
+    jest.setTimeout(10000);
     repositorios = await buscaRepositorios();
   });
 
